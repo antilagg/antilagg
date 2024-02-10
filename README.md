@@ -2,8 +2,8 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/KonaNFF.png" alt="TryHackMe">
 </div>
 
-<p href="https://discord.com/users/592439347400409088" align="center" width="1000px">
-    <img src="https://lanyard.cnrad.dev/api/592439347400409088?borderRadius=30px"/>
+<p href="https://discord.com/users/824027700851245138" align="center" width="1000px">
+    <img src="https://lanyard.cnrad.dev/api/824027700851245138?borderRadius=30px"/>
 </p>
 
 ```python
