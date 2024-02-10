@@ -25,7 +25,7 @@ class Attributes(antilag):
 
         :return: Discord handle
         """
-        discord = "kantilagn"
+        discord = "antılagvıp"
         return discord
 
     @staticmethod
@@ -35,8 +35,8 @@ class Attributes(antilag):
 
         :return: Tuple containing languages and age
         """
-        langs = ['Arabic', 'English', 'French']
-        age = 19
+        langs = ['Turkish', 'English']
+        age = 16
         return langs, age
 
     @staticmethod
@@ -47,9 +47,9 @@ class Attributes(antilag):
         :return: Tuple containing languages, specialties, and development environment
         """
         langs = {
-            'expert': ['python', 'js', 'lua'],
-            'intermediate': ['php', 'c++', 'c#'],
-            'learning': ['react']
+            'expert': ['python'],
+            'intermediate': ['js', 'c#'],
+            'learning': ['golang']
         }
         specialities = ['web/app reverse engineering', 'fullstack']
         environnement = ['vscode']
