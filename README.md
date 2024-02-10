@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/KonaNFF.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/antilag" alt="TryHackMe">
 </div>
 
 <p href="https://discord.com/users/824027700851245138" align="center" width="1000px">
