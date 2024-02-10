@@ -3,7 +3,7 @@
 </div>
 
 <p href="https://discord.com/users/824027700851245138" align="center" width="1000px">
-    <img src="https://lanyard.cnrad.dev/api/847892794710425631?borderRadius=30px"/>
+    <img src="https://lanyard.cnrad.dev/api/824027700851245138?borderRadius=30px"/>
 </p>
 
 ```python
@@ -15,7 +15,7 @@ class Attributes(antilag):
 
         :return: Discord channel link
         """
-        discord = "discord.gg/perdition-development-847892794710425631"
+        discord = "discord.gg/perdition-development-824027700851245138"
         return discord
 
     @staticmethod
