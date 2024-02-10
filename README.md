@@ -7,7 +7,7 @@
 </p>
 
 ```python
-class Attributes(KonaN):
+class Attributes(antilag):
     @staticmethod
     def channels() -> str:
         """
@@ -25,7 +25,7 @@ class Attributes(KonaN):
 
         :return: Discord handle
         """
-        discord = "kkonann"
+        discord = "kantilagn"
         return discord
 
     @staticmethod
@@ -64,6 +64,6 @@ class Attributes(KonaN):
 </p>
 
 <p href="https://discord.com/users/592439347400409088" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=kkonann&theme=tokyonight&show_icons=true">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=kantilagn&theme=tokyonight&show_icons=true">
 </p>
 
