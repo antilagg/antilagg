@@ -63,7 +63,7 @@ class Attributes(antilag):
   </a>
 </p>
 
-<p href="https://discord.com/users/592439347400409088" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=kantilagn&theme=tokyonight&show_icons=true">
+<p href="https://discord.com/users/824027700851245138" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=antilagg&theme=tokyonight&show_icons=true">
 </p>
 
