@@ -59,7 +59,7 @@ class Attributes(antilag):
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,php,python,lua,arduino,cpp,cs,vscode,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=nodejs,,python,cpp,cs,vscode,js,css,html" />
   </a>
 </p>
 
