@@ -26,7 +26,7 @@ class Attributes(antilag):
 
         :return: Discord handle
         """
-        discord = "antılagvıp"
+        discord = "antilagvip"
         return discord
 
     @staticmethod
