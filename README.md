@@ -16,7 +16,7 @@ class Attributes:
 
         :return: Discord channel link
         """
-        return "https://discord.gg/perdition-development-824027700851245138"
+        return "https://discord.gg/perdition-development-1175116600035266690"
 
     @staticmethod
     def contact() -> str:
@@ -25,7 +25,7 @@ class Attributes:
 
         :return: Discord handle
         """
-        return "antilagvip"
+        return "antilagvip2"
 
     @staticmethod
     def life() -> tuple:
@@ -35,7 +35,7 @@ class Attributes:
         :return: Tuple containing languages and age
         """
         langs = ['Turkish', 'English']
-        age = 16
+        age = 17
         return langs, age
 
     @staticmethod
@@ -50,7 +50,7 @@ class Attributes:
             'intermediate': ['JavaScript', 'C#'],
             'learning': ['Go']
         }
-        specialties = ['Web/App Reverse Engineering', 'Fullstack Development']
+        specialties = ['Web/App Reverse Engineering', 'FS Development']
         environment = ['VSCode']
         return langs, specialties, environment
 ```
@@ -62,7 +62,7 @@ class Attributes:
   </a>
 </p>
 
-<p href="https://discord.com/users/824027700851245138" align="center">
+<p href="https://discord.com/users/145244453496422400" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=antilagg&theme=tokyonight&show_icons=true">
 </p>
 
