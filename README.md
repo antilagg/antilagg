@@ -8,7 +8,7 @@
 </p>
 
 ```python
-class Attributes(antilag):
+class Attributes:
     @staticmethod
     def channels() -> str:
         """
@@ -16,8 +16,7 @@ class Attributes(antilag):
 
         :return: Discord channel link
         """
-        discord = "discord.gg/perdition-development-824027700851245138"
-        return discord
+        return "https://discord.gg/perdition-development-824027700851245138"
 
     @staticmethod
     def contact() -> str:
@@ -26,8 +25,7 @@ class Attributes(antilag):
 
         :return: Discord handle
         """
-        discord = "antilagvip"
-        return discord
+        return "antilagvip"
 
     @staticmethod
     def life() -> tuple:
@@ -48,13 +46,13 @@ class Attributes(antilag):
         :return: Tuple containing languages, specialties, and development environment
         """
         langs = {
-            'expert': ['python'],
-            'intermediate': ['js', 'c#'],
-            'learning': ['golang']
+            'expert': ['Python'],
+            'intermediate': ['JavaScript', 'C#'],
+            'learning': ['Go']
         }
-        specialities = ['web/app reverse engineering', 'fullstack']
-        environnement = ['vscode']
-        return langs, specialities, environnement
+        specialties = ['Web/App Reverse Engineering', 'Fullstack Development']
+        environment = ['VSCode']
+        return langs, specialties, environment
 ```
 <h2 align="center">Skills </h2>
 
