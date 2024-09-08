@@ -47,7 +47,7 @@ class Attributes:
         """
         langs = {
             'expert': ['Python'],
-            'intermediate': ['JavaScript', 'C#'],
+            'intermediate': ['NodeJS'],
             'learning': ['Go']
         }
         specialties = ['Web/App Reverse Engineering', 'FS Development']
