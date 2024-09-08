@@ -1,68 +1,41 @@
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
+###
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/antilag.png" alt="TryHackMe">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<p href="https://discord.com/users/145244453496422400" align="center" width="1000px">
-    <img src="https://lanyard.cnrad.dev/api/145244453496422400?borderRadius=30px"/>
-</p>
+###
 
-```python
-class Attributes:
-    @staticmethod
-    def channels() -> str:
-        """
-        Returns the Discord channel for professional communication.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-        :return: Discord channel link
-        """
-        return "https://discord.gg/perdition-development-1175116600035266690"
+###
 
-    @staticmethod
-    def contact() -> str:
-        """
-        Returns the preferred contact handle for professional inquiries.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+</div>
 
-        :return: Discord handle
-        """
-        return "antilagvip2"
+###
 
-    @staticmethod
-    def life() -> tuple:
-        """
-        Returns information about language proficiency and age.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-        :return: Tuple containing languages and age
-        """
-        langs = ['Turkish', 'English']
-        age = 17
-        return langs, age
+###
 
-    @staticmethod
-    def coding() -> tuple:
-        """
-        Returns information about coding expertise, specialties, and development environment.
+<br clear="both">
 
-        :return: Tuple containing languages, specialties, and development environment
-        """
-        langs = {
-            'expert': ['Python'],
-            'intermediate': ['NodeJS'],
-            'learning': ['Go']
-        }
-        specialties = ['Web/App Reverse Engineering', 'FS Development']
-        environment = ['VSCode']
-        return langs, specialties, environment
-```
-<h2 align="center">Skills </h2>
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,vscode,js,css,html,go" />
-  </a>
-</p>
-
-<p href="https://discord.com/users/145244453496422400" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=antilagg&theme=tokyonight&show_icons=true">
-</p>
-
+###
