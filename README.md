@@ -8,6 +8,13 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=antilagg&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️
+<p align="center">
+  <a>
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
+      <a href="https://github.com"><img src="[https://github-readme-streak-stats.herokuapp.com?user=emirhannyvz&theme=material-palenight&hide_border=false](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)" alt="GitHub Streak" width="55%"  /></a>
+    <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
+  </a>
+</p>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
