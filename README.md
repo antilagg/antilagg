@@ -11,7 +11,7 @@
 <p align="center">
   <a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Left.png">
-      <a href="[https://git.io/streak-stats](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)"><img src="[https://github-readme-streak-stats.herokuapp.com?user=emirhannyvz&theme=material-palenight&hide_border=false](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)" alt="GitHub Streak" width="55%"  /></a>
+      <a href="[https://git.io/streak-stats](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)"></a>
     <img heigth="160" width="182" src="https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Bird%20Wing%20Right.png">
   </a>
 </p>
