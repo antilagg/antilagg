@@ -3,9 +3,7 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/antilag.png" alt="TryHackMe">
 </div>
 
-<p href="https://discord.com/users/145244453496422400" align="center" width="1000px">
-    <img src="https://lanyard.cnrad.dev/api/145244453496422400?borderRadius=30px"/>
-</p>
+<a href="https://discord.com/users/854024514781315082/"><img src="https://lanyard.cnrad.dev/api/854024514781315082?bg=0d1117" height="180" width="auto"></a>
 
 ```python
 class Attributes(antilag):
