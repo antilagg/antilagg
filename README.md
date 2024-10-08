@@ -9,7 +9,10 @@
      <br> 
 </h3>
 
+<h3 align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+</h3>
 
 ```python
 class Attributes(antilag):
