@@ -39,7 +39,7 @@ class Attributes(antilag):
         :return: Tuple containing languages and age
         """
         langs = ['Turkish', 'English']
-        age = 16
+        age = 17
         return langs, age
 
     @staticmethod
