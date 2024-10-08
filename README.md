@@ -11,7 +11,7 @@
 
 <h3 align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antilag&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antilagg&hide_progress=false)
 </h3>
 
 ```python
