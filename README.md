@@ -3,6 +3,8 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/antilag.png" alt="TryHackMe">
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/77577dfc-b38c-41dc-8795-7351df7de15a.svg)](https://wakatime.com/@77577dfc-b38c-41dc-8795-7351df7de15a)
+
 ```python
 from typing import Tuple, List, Dict
 
