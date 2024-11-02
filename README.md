@@ -38,12 +38,12 @@ class Attributes(antilag):
                 'Windows': {
                     'processor': 'AMD Ryzen 5 5600 | 6 cores',
                     'ram'      : '16GB',
-                    'gpu'      : 'NVIDIA GTX 1060'
+                    'gpu'      : 'NVIDIA GTX 1060 | 6g'
                 },
                 'Linux - EndeavourOS': {
                     'processor': 'AMD Ryzen 5 5600 | 6 cores',
                     'ram'      : '16GB',
-                    'gpu'      : 'NVIDIA GTX 1060'
+                    'gpu'      : 'NVIDIA GTX 1060 | 6g'
                 }
             }
         }
