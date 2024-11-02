@@ -3,66 +3,56 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/antilag.png" alt="TryHackMe">
 </div>
 
-<h3 align="center">
-
-   <a href="https://discord.com/users/145244453496422400/"><img src="https://lanyard.cnrad.dev/api/145244453496422400?bg=0d1117" height="180" width="auto"></a>
-     <br> 
-</h3>
-
-<h3 align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antilagg&hide_progress=false)
-</h3>
-
 ```python
+from typing import Tuple, List, Dict
+
+class antilag:
+    pass
+
 class Attributes(antilag):
-    @staticmethod
-    def channels() -> str:
-        """
-        Returns the Discord channel for professional communication.
+    @property
+    def contact(self) -> Tuple[str, str, str]:
+        telegram = "t.me/antilaggvip"
+        discord  = "antilagvip"
+	    
+        return telegram, discord
 
-        :return: Discord channel link
-        """
-        discord = "discord.gg/perdition-development-824027700851245138"
-        return discord
-
-    @staticmethod
-    def contact() -> str:
-        """
-        Returns the preferred contact handle for professional inquiries.
-
-        :return: Discord handle
-        """
-        discord = "antilagvip"
-        return discord
-
-    @staticmethod
-    def life() -> tuple:
-        """
-        Returns information about language proficiency and age.
-
-        :return: Tuple containing languages and age
-        """
+    @property
+    def life(self) -> Tuple[List[str], int]:
         langs = ['Turkish', 'English']
-        age = 17
+        age   = 17
+		
         return langs, age
-
-    @staticmethod
-    def coding() -> tuple:
-        """
-        Returns information about coding expertise, specialties, and development environment.
-
-        :return: Tuple containing languages, specialties, and development environment
-        """
+	
+    @property
+    def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str], Dict[str]]:
         langs = {
-            'expert': ['python'],
+            'expert'      : ['python'],
             'intermediate': ['js'],
-            'learning': ['golang']
+            'learning'    : ['go']
         }
-        specialities = ['web/app reverse engineering']
-        environnement = ['vscode']
-        return langs, specialities, environnement
+        specialities  = ['app rev engineering/']
+        ide           = ['vscode', 'intellij']
+        pc = {
+            'dual_boot': {
+                'Windows': {
+                    'processor': 'AMD Ryzen 5 5600 | 6 cores',
+                    'ram'      : '16GB',
+                    'gpu'      : 'NVIDIA GTX 1060'
+                },
+                'Linux - EndeavourOS': {
+                    'processor': 'AMD Ryzen 5 5600 | 6 cores',
+                    'ram'      : '16GB',
+                    'gpu'      : 'NVIDIA GTX 1060'
+                }
+            }
+        }
+
+
+	return langs, specialities, ide, pc
 ```
+
+
 <h2 align="center">Skills </h2>
 
 <p align="center">
@@ -74,4 +64,9 @@ class Attributes(antilag):
 <p href="https://discord.com/users/145244453496422400" align="center">
     <img alt="" src="https://github-readme-stats.vercel.app/api?username=antilagg&theme=tokyonight&show_icons=true">
 </p>
+
+<h3 align="center">
+   <a href="https://discord.com/users/145244453496422400/"><img src="https://lanyard.cnrad.dev/api/145244453496422400?bg=0d1117" height="180" width="auto"></a>
+     <br> 
+</h3>
 
