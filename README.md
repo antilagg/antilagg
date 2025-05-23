@@ -39,15 +39,14 @@ class Attributes(antilag):
         ide           = ['vscode', 'intellij']
         pc = {
             'dual_boot': {
-                'Windows': {
+                'Linux - EndeavourOS': {
+		    'WM': "Hyprland",
                     'processor': 'AMD Ryzen 5 5600 | 6 cores',
                     'ram'      : '16GB',
                     'gpu'      : 'NVIDIA GTX 1060 | 6g'
                 },
-                'Linux - EndeavourOS': {
-                    'processor': 'AMD Ryzen 5 5600 | 6 cores',
-                    'ram'      : '16GB',
-                    'gpu'      : 'NVIDIA GTX 1060 | 6g'
+                'Windows 11': {
+                    'purpose': 'gaming / analyze'
                 }
             }
         }
