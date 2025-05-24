@@ -40,7 +40,7 @@ class Attributes(antilag):
         pc = {
             'dual_boot': {
                 'Linux - EndeavourOS': {
-		    'WM': "Hyprland",
+		    'WM'       : 'Hyprland',
                     'processor': 'AMD Ryzen 5 5600 | 6 cores',
                     'ram'      : '16GB',
                     'gpu'      : 'NVIDIA GTX 1060 | 6g'
