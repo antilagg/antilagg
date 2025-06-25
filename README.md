@@ -1,12 +1,13 @@
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/2764754.png" alt="TryHackMe Badge">
-</div>
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/2764754.png" alt="TryHackMe Badge" />
+</p>
 
-<div align="center">
+<p align="center">
   <a href="https://wakatime.com/@77577dfc-b38c-41dc-8795-7351df7de15a">
     <img src="https://wakatime.com/badge/user/77577dfc-b38c-41dc-8795-7351df7de15a.svg" alt="Total time coded since Sep 9 2024" />
   </a>
-</div>
+</p>
+
 
 
 ```python
