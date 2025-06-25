@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/2764754.png" alt="TryHackMe Badge" />
+  <img src="https://tryhackme-badges.s3.amazonaws.com/antilag.png" alt="TryHackMe Badge" />
 </p>
 
 <p align="center">
