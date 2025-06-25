@@ -1,11 +1,13 @@
-
 <div align="center">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2764754" style='border:none;'></img>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/2764754.png" alt="TryHackMe Badge">
 </div>
 
 <div align="center">
-<a href="https://wakatime.com/@77577dfc-b38c-41dc-8795-7351df7de15a"><img src="https://wakatime.com/badge/user/77577dfc-b38c-41dc-8795-7351df7de15a.svg" alt="Total time coded since Sep 9 2024" /></a>
+  <a href="https://wakatime.com/@77577dfc-b38c-41dc-8795-7351df7de15a">
+    <img src="https://wakatime.com/badge/user/77577dfc-b38c-41dc-8795-7351df7de15a.svg" alt="Total time coded since Sep 9 2024" />
+  </a>
 </div>
+
 
 ```python
 from typing import Tuple, List, Dict
