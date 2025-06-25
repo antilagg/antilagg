@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2764754" alt="TryHackMe">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2764754" style='border:none;'></iframe>
 </div>
 
 <div align="center">
