@@ -46,7 +46,7 @@ class Attributes(antilag):
 		    		'WM'       : 'Hyprland',
                     'processor': 'AMD Ryzen 5 5600 | 6 cores',
                     'ram'      : '16GB',
-                    'gpu'      : 'NVIDIA GTX 1060 | 6g'
+                    'gpu'      : 'NVIDIA RTX 3080 | 10g'
                 },
                 'Windows 11': {
                     'purpose': 'gaming / analyze'
