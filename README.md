@@ -27,7 +27,7 @@ class Attributes(antilag):
     @property
     def life(self) -> Tuple[List[str], int]:
         langs = ['Turkish', 'English']
-        age   = 17
+        age   = 18
 		
         return langs, age
 	
