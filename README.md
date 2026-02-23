@@ -35,8 +35,7 @@ class Attributes(antilag):
     def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str], Dict[str]]:
         langs = {
             'expert'      : ['python'],
-            'intermediate': ['js'],
-            'learning'    : ['go']
+            'intermediate': ['go']
         }
         specialities  = ['app rev engineering/']
         ide           = ['vscode', 'intellij']
