@@ -27,25 +27,25 @@ class Attributes(antilag):
     @property
     def life(self) -> Tuple[List[str], int]:
         langs = ['Turkish', 'English']
-        age   = 18
+        age   = 19
 		
         return langs, age
 	
     @property
     def coding(self) -> Tuple[Dict[str, List[str]], List[str], List[str], Dict[str]]:
         langs = {
-            'expert'      : ['python'],
-            'intermediate': ['go']
+            'expert'      : ['python', 'go'],
+            'intermediate': ['rust']
         }
         specialities  = ['app rev engineering/']
         ide           = ['vscode', 'intellij']
         pc = {
             'dual_boot': {
-                'Linux - EndeavourOS': {
-		    		'WM'       : 'Hyprland',
-                    'processor': 'AMD Ryzen 5 5600 | 6 cores',
-                    'ram'      : '16GB',
-                    'gpu'      : 'NVIDIA RTX 3080 | 10g'
+                'Linux - CachyOS': {
+		    		'WM'       : 'KDE',
+                    'processor': 'AMD R7 9700x | 8 cores',
+                    'ram'      : '16GB 6000',
+                    'gpu'      : 'AMD RX 9070 XT | 16g'
                 },
                 'Windows 11': {
                     'purpose': 'gaming / analyze'
